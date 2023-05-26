@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit Application</string>
+    <string name="getAll">Get ALL Products</string>
+    <string name="fav">get favourite products</string>
+    <string name="exit">Exit</string>
+    <string name="favourite">favourite</string>
+</resources>
